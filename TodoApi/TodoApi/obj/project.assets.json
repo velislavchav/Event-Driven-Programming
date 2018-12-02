@@ -5452,7 +5452,7 @@
       ]
     },
     "Microsoft.AspNetCore.Razor.Design/2.1.1": {
-      "sha512": "BOK5fckW9v7xWjpEI6bPGwkjw10OPVASZcAa8HoWJo/0Mmg4Azddj92v8noU+YgvD/6zNZ9o/RiRXXKxk5rYwQ==",
+      "sha512": "f8PKGcxiezL1RVqmnmrazj24Mj4KCTSXqwdotl7Lc+82h8iLV7ItxEIShTJakG7M9iw0ZuCocM0J/IhYesdQrg==",
       "type": "package",
       "path": "microsoft.aspnetcore.razor.design/2.1.1",
       "files": [
@@ -12218,23 +12218,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Chavdarov\\.nuget\\packages\\": {},
+    "C:\\Users\\Nikolay Kyurkchiyski\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Chavdarov\\Desktop\\semestar 1\\EventProgramming\\ASP.NET\\TodoApi\\TodoApi\\TodoApi.csproj",
+      "projectUniqueName": "C:\\Users\\Nikolay Kyurkchiyski\\Documents\\Visual Studio 2017\\Projects\\TodoApi\\TodoApi\\TodoApi.csproj",
       "projectName": "TodoApi",
-      "projectPath": "C:\\Users\\Chavdarov\\Desktop\\semestar 1\\EventProgramming\\ASP.NET\\TodoApi\\TodoApi\\TodoApi.csproj",
-      "packagesPath": "C:\\Users\\Chavdarov\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Chavdarov\\Desktop\\semestar 1\\EventProgramming\\ASP.NET\\TodoApi\\TodoApi\\obj\\",
+      "projectPath": "C:\\Users\\Nikolay Kyurkchiyski\\Documents\\Visual Studio 2017\\Projects\\TodoApi\\TodoApi\\TodoApi.csproj",
+      "packagesPath": "C:\\Users\\Nikolay Kyurkchiyski\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Nikolay Kyurkchiyski\\Documents\\Visual Studio 2017\\Projects\\TodoApi\\TodoApi\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Chavdarov\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Nikolay Kyurkchiyski\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
