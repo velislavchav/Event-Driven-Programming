@@ -1,0 +1,43 @@
+﻿@model Project.Models.GalleryViewModels
+
+    @{
+        ViewBag.Title = "Edit";
+    }
+
+<style>
+    body {
+        background-image: url("/Images/Background.jpg");
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+    }
+</style>
+
+    <h2 style="margin-left:43%; color:white">Edit</h2>
+    <hr />
+
+    <form method="post" action="/ManageGallery/Edit/@ViewBag.Id" style="margin-left:35%">
+        @Html.AntiForgeryToken()
+        <div class="form-group">
+            <label style="color: white">Name</label>
+            <input type="text" name="Name" class="form-control" value="@Model.Name" />
+        </div>
+
+        <div class="form-group">
+            <label style="color: white">Author</label>
+            <input type="text" name="Author" class="form-control" value="@Model.Author" />
+        </div>
+
+        <div class="form-group">
+            <label style="color: white">Price</label>
+            <input type="text" name="Price" class="form-control" value="@Model.Price" />
+        </div>
+
+        <div class="form-group">
+            <label style="color: white">Cover</label>
+            <input type="file" name="Cover" style="color: white" />
+        </div>
+
+        <div class="form-group">
+            <button class="btn btn-info" type="submit" style="width:280px">Save</button>
+        </div>
+    </form>

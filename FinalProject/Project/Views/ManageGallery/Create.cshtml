@@ -1,0 +1,42 @@
+﻿
+@{
+    ViewBag.Title = "Create";
+}
+
+<style>
+    body {
+        background-image: url("/Images/Background.jpg");
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+    }
+</style>
+
+<h2 style="margin-left:43%; color:white">Create</h2>
+<hr />
+<form method="post" action="/ManageGallery/Create" enctype="multipart/form-data" style="margin-left:35%">
+    @Html.AntiForgeryToken()
+    <div class="form-group">
+        <label style="color: white">Name</label>
+        <input type="text" name="Name" class="form-control" placeholder="Enter name.." required="required" />
+    </div>
+
+    <div class="form-group">
+        <label style="color: white">Author</label>
+        <input type="text" name="Author" class="form-control" placeholder="Enter author.." required="required" />
+    </div>
+
+    <div class="form-group">
+        <label style="color: white">Price</label>
+        <input type="text" name="Price" class="form-control" placeholder="Enter price.." required="required"  /> 
+    </div>
+
+    <div class="form-group">
+        <label style="color: white">Cover</label>
+        <input type="file" name="Cover" required="required"  style="color: white"/>
+    </div>
+
+    <div class="form-group">
+        <button class="btn btn-info" type="submit" style="width:280px">Save</button>
+    </div>
+</form>
+

@@ -1,0 +1,218 @@
+D:\Емилия\СТД 2017\2.1\Събитийно прог\Project\Project\bin\Project.dll.config
+D:\Емилия\СТД 2017\2.1\Събитийно прог\Project\Project\bin\Project.dll
+D:\Емилия\СТД 2017\2.1\Събитийно прог\Project\Project\bin\Project.pdb
+D:\Емилия\СТД 2017\2.1\Събитийно прог\Project\Project\bin\roslyn\csc.exe
+D:\Емилия\СТД 2017\2.1\Събитийно прог\Project\Project\bin\roslyn\csc.exe.config
+D:\Емилия\СТД 2017\2.1\Събитийно прог\Project\Project\bin\roslyn\csc.rsp
+D:\Емилия\СТД 2017\2.1\Събитийно прог\Project\Project\bin\roslyn\csi.exe
+D:\Емилия\СТД 2017\2.1\Събитийно прог\Project\Project\bin\roslyn\csi.exe.config
+D:\Емилия\СТД 2017\2.1\Събитийно прог\Project\Project\bin\roslyn\csi.rsp
+D:\Емилия\СТД 2017\2.1\Събитийно прог\Project\Project\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Емилия\СТД 2017\2.1\Събитийно прог\Project\Project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Емилия\СТД 2017\2.1\Събитийно прог\Project\Project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Емилия\СТД 2017\2.1\Събитийно прог\Project\Project\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Емилия\СТД 2017\2.1\Събитийно прог\Project\Project\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Емилия\СТД 2017\2.1\Събитийно прог\Project\Project\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Емилия\СТД 2017\2.1\Събитийно прог\Project\Project\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Емилия\СТД 2017\2.1\Събитийно прог\Project\Project\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Емилия\СТД 2017\2.1\Събитийно прог\Project\Project\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Емилия\СТД 2017\2.1\Събитийно прог\Project\Project\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Емилия\СТД 2017\2.1\Събитийно прог\Project\Project\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Емилия\СТД 2017\2.1\Събитийно прог\Project\Project\bin\roslyn\System.AppContext.dll
+D:\Емилия\СТД 2017\2.1\Събитийно прог\Project\Project\bin\roslyn\System.Collections.Immutable.dll
+D:\Емилия\СТД 2017\2.1\Събитийно прог\Project\Project\bin\roslyn\System.Console.dll
+D:\Емилия\СТД 2017\2.1\Събитийно прог\Project\Project\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Емилия\СТД 2017\2.1\Събитийно прог\Project\Project\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Емилия\СТД 2017\2.1\Събитийно прог\Project\Project\bin\roslyn\System.IO.Compression.dll
+D:\Емилия\СТД 2017\2.1\Събитийно прог\Project\Project\bin\roslyn\System.IO.FileSystem.dll
+D:\Емилия\СТД 2017\2.1\Събитийно прог\Project\Project\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Емилия\СТД 2017\2.1\Събитийно прог\Project\Project\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Емилия\СТД 2017\2.1\Събитийно прог\Project\Project\bin\roslyn\System.IO.Pipes.dll
+D:\Емилия\СТД 2017\2.1\Събитийно прог\Project\Project\bin\roslyn\System.Reflection.Metadata.dll
+D:\Емилия\СТД 2017\2.1\Събитийно прог\Project\Project\bin\roslyn\System.Security.AccessControl.dll
+D:\Емилия\СТД 2017\2.1\Събитийно прог\Project\Project\bin\roslyn\System.Security.Claims.dll
+D:\Емилия\СТД 2017\2.1\Събитийно прог\Project\Project\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Емилия\СТД 2017\2.1\Събитийно прог\Project\Project\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Емилия\СТД 2017\2.1\Събитийно прог\Project\Project\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Емилия\СТД 2017\2.1\Събитийно прог\Project\Project\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Емилия\СТД 2017\2.1\Събитийно прог\Project\Project\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Емилия\СТД 2017\2.1\Събитийно прог\Project\Project\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Емилия\СТД 2017\2.1\Събитийно прог\Project\Project\bin\roslyn\System.ValueTuple.dll
+D:\Емилия\СТД 2017\2.1\Събитийно прог\Project\Project\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Емилия\СТД 2017\2.1\Събитийно прог\Project\Project\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Емилия\СТД 2017\2.1\Събитийно прог\Project\Project\bin\roslyn\System.Xml.XPath.dll
+D:\Емилия\СТД 2017\2.1\Събитийно прог\Project\Project\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Емилия\СТД 2017\2.1\Събитийно прог\Project\Project\bin\roslyn\vbc.exe
+D:\Емилия\СТД 2017\2.1\Събитийно прог\Project\Project\bin\roslyn\vbc.exe.config
+D:\Емилия\СТД 2017\2.1\Събитийно прог\Project\Project\bin\roslyn\vbc.rsp
+D:\Емилия\СТД 2017\2.1\Събитийно прог\Project\Project\bin\roslyn\VBCSCompiler.exe
+D:\Емилия\СТД 2017\2.1\Събитийно прог\Project\Project\bin\roslyn\VBCSCompiler.exe.config
+D:\Емилия\СТД 2017\2.1\Събитийно прог\Project\Project\bin\Antlr3.Runtime.dll
+D:\Емилия\СТД 2017\2.1\Събитийно прог\Project\Project\bin\EntityFramework.dll
+D:\Емилия\СТД 2017\2.1\Събитийно прог\Project\Project\bin\EntityFramework.SqlServer.dll
+D:\Емилия\СТД 2017\2.1\Събитийно прог\Project\Project\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Емилия\СТД 2017\2.1\Събитийно прог\Project\Project\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Емилия\СТД 2017\2.1\Събитийно прог\Project\Project\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Емилия\СТД 2017\2.1\Събитийно прог\Project\Project\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+D:\Емилия\СТД 2017\2.1\Събитийно прог\Project\Project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Емилия\СТД 2017\2.1\Събитийно прог\Project\Project\bin\Microsoft.Owin.dll
+D:\Емилия\СТД 2017\2.1\Събитийно прог\Project\Project\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Емилия\СТД 2017\2.1\Събитийно прог\Project\Project\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Емилия\СТД 2017\2.1\Събитийно прог\Project\Project\bin\Microsoft.Owin.Security.dll
+D:\Емилия\СТД 2017\2.1\Събитийно прог\Project\Project\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Емилия\СТД 2017\2.1\Събитийно прог\Project\Project\bin\Microsoft.Owin.Security.Google.dll
+D:\Емилия\СТД 2017\2.1\Събитийно прог\Project\Project\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Емилия\СТД 2017\2.1\Събитийно прог\Project\Project\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Емилия\СТД 2017\2.1\Събитийно прог\Project\Project\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Емилия\СТД 2017\2.1\Събитийно прог\Project\Project\bin\Microsoft.Web.Infrastructure.dll
+D:\Емилия\СТД 2017\2.1\Събитийно прог\Project\Project\bin\Newtonsoft.Json.dll
+D:\Емилия\СТД 2017\2.1\Събитийно прог\Project\Project\bin\Owin.dll
+D:\Емилия\СТД 2017\2.1\Събитийно прог\Project\Project\bin\System.Diagnostics.DiagnosticSource.dll
+D:\Емилия\СТД 2017\2.1\Събитийно прог\Project\Project\bin\System.Web.Helpers.dll
+D:\Емилия\СТД 2017\2.1\Събитийно прог\Project\Project\bin\System.Web.Mvc.dll
+D:\Емилия\СТД 2017\2.1\Събитийно прог\Project\Project\bin\System.Web.Optimization.dll
+D:\Емилия\СТД 2017\2.1\Събитийно прог\Project\Project\bin\System.Web.Razor.dll
+D:\Емилия\СТД 2017\2.1\Събитийно прог\Project\Project\bin\System.Web.WebPages.Deployment.dll
+D:\Емилия\СТД 2017\2.1\Събитийно прог\Project\Project\bin\System.Web.WebPages.dll
+D:\Емилия\СТД 2017\2.1\Събитийно прог\Project\Project\bin\System.Web.WebPages.Razor.dll
+D:\Емилия\СТД 2017\2.1\Събитийно прог\Project\Project\bin\WebGrease.dll
+D:\Емилия\СТД 2017\2.1\Събитийно прог\Project\Project\bin\System.Web.Helpers.xml
+D:\Емилия\СТД 2017\2.1\Събитийно прог\Project\Project\bin\System.Web.Mvc.xml
+D:\Емилия\СТД 2017\2.1\Събитийно прог\Project\Project\bin\System.Web.Optimization.xml
+D:\Емилия\СТД 2017\2.1\Събитийно прог\Project\Project\bin\System.Web.Razor.xml
+D:\Емилия\СТД 2017\2.1\Събитийно прог\Project\Project\bin\System.Web.WebPages.xml
+D:\Емилия\СТД 2017\2.1\Събитийно прог\Project\Project\bin\System.Web.WebPages.Deployment.xml
+D:\Емилия\СТД 2017\2.1\Събитийно прог\Project\Project\bin\System.Web.WebPages.Razor.xml
+D:\Емилия\СТД 2017\2.1\Събитийно прог\Project\Project\bin\Newtonsoft.Json.xml
+D:\Емилия\СТД 2017\2.1\Събитийно прог\Project\Project\bin\Antlr3.Runtime.pdb
+D:\Емилия\СТД 2017\2.1\Събитийно прог\Project\Project\bin\EntityFramework.xml
+D:\Емилия\СТД 2017\2.1\Събитийно прог\Project\Project\bin\EntityFramework.SqlServer.xml
+D:\Емилия\СТД 2017\2.1\Събитийно прог\Project\Project\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Емилия\СТД 2017\2.1\Събитийно прог\Project\Project\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Емилия\СТД 2017\2.1\Събитийно прог\Project\Project\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Емилия\СТД 2017\2.1\Събитийно прог\Project\Project\bin\Microsoft.Owin.xml
+D:\Емилия\СТД 2017\2.1\Събитийно прог\Project\Project\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Емилия\СТД 2017\2.1\Събитийно прог\Project\Project\bin\Microsoft.Owin.Security.xml
+D:\Емилия\СТД 2017\2.1\Събитийно прог\Project\Project\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Емилия\СТД 2017\2.1\Събитийно прог\Project\Project\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Емилия\СТД 2017\2.1\Събитийно прог\Project\Project\bin\Microsoft.Owin.Security.Google.xml
+D:\Емилия\СТД 2017\2.1\Събитийно прог\Project\Project\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Емилия\СТД 2017\2.1\Събитийно прог\Project\Project\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Емилия\СТД 2017\2.1\Събитийно прог\Project\Project\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Емилия\СТД 2017\2.1\Събитийно прог\Project\Project\bin\System.Diagnostics.DiagnosticSource.xml
+D:\Емилия\СТД 2017\2.1\Събитийно прог\Project\Project\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+D:\Емилия\СТД 2017\2.1\Събитийно прог\Project\Project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Емилия\СТД 2017\2.1\Събитийно прог\Project\Project\obj\Debug\Project.csprojAssemblyReference.cache
+D:\Емилия\СТД 2017\2.1\Събитийно прог\Project\Project\obj\Debug\Project.csproj.CoreCompileInputs.cache
+D:\Емилия\СТД 2017\2.1\Събитийно прог\Project\Project\obj\Debug\Project.csproj.CopyComplete
+D:\Емилия\СТД 2017\2.1\Събитийно прог\Project\Project\obj\Debug\Project.dll
+D:\Емилия\СТД 2017\2.1\Събитийно прог\Project\Project\obj\Debug\Project.pdb
+C:\Users\Chavdarov\Desktop\Project\Project\bin\Project.dll.config
+C:\Users\Chavdarov\Desktop\Project\Project\bin\Project.dll
+C:\Users\Chavdarov\Desktop\Project\Project\bin\Project.pdb
+C:\Users\Chavdarov\Desktop\Project\Project\bin\roslyn\csc.exe
+C:\Users\Chavdarov\Desktop\Project\Project\bin\roslyn\csc.exe.config
+C:\Users\Chavdarov\Desktop\Project\Project\bin\roslyn\csc.rsp
+C:\Users\Chavdarov\Desktop\Project\Project\bin\roslyn\csi.exe
+C:\Users\Chavdarov\Desktop\Project\Project\bin\roslyn\csi.exe.config
+C:\Users\Chavdarov\Desktop\Project\Project\bin\roslyn\csi.rsp
+C:\Users\Chavdarov\Desktop\Project\Project\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Chavdarov\Desktop\Project\Project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Chavdarov\Desktop\Project\Project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Chavdarov\Desktop\Project\Project\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Chavdarov\Desktop\Project\Project\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Chavdarov\Desktop\Project\Project\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Chavdarov\Desktop\Project\Project\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Chavdarov\Desktop\Project\Project\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Chavdarov\Desktop\Project\Project\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Chavdarov\Desktop\Project\Project\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Chavdarov\Desktop\Project\Project\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Chavdarov\Desktop\Project\Project\bin\roslyn\System.AppContext.dll
+C:\Users\Chavdarov\Desktop\Project\Project\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Chavdarov\Desktop\Project\Project\bin\roslyn\System.Console.dll
+C:\Users\Chavdarov\Desktop\Project\Project\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Chavdarov\Desktop\Project\Project\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Chavdarov\Desktop\Project\Project\bin\roslyn\System.IO.Compression.dll
+C:\Users\Chavdarov\Desktop\Project\Project\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Chavdarov\Desktop\Project\Project\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Chavdarov\Desktop\Project\Project\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Chavdarov\Desktop\Project\Project\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Chavdarov\Desktop\Project\Project\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Chavdarov\Desktop\Project\Project\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Chavdarov\Desktop\Project\Project\bin\roslyn\System.Security.Claims.dll
+C:\Users\Chavdarov\Desktop\Project\Project\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Chavdarov\Desktop\Project\Project\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Chavdarov\Desktop\Project\Project\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Chavdarov\Desktop\Project\Project\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Chavdarov\Desktop\Project\Project\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Chavdarov\Desktop\Project\Project\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Chavdarov\Desktop\Project\Project\bin\roslyn\System.ValueTuple.dll
+C:\Users\Chavdarov\Desktop\Project\Project\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Chavdarov\Desktop\Project\Project\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Chavdarov\Desktop\Project\Project\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Chavdarov\Desktop\Project\Project\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Chavdarov\Desktop\Project\Project\bin\roslyn\vbc.exe
+C:\Users\Chavdarov\Desktop\Project\Project\bin\roslyn\vbc.exe.config
+C:\Users\Chavdarov\Desktop\Project\Project\bin\roslyn\vbc.rsp
+C:\Users\Chavdarov\Desktop\Project\Project\bin\roslyn\VBCSCompiler.exe
+C:\Users\Chavdarov\Desktop\Project\Project\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Chavdarov\Desktop\Project\Project\bin\Antlr3.Runtime.dll
+C:\Users\Chavdarov\Desktop\Project\Project\bin\EntityFramework.dll
+C:\Users\Chavdarov\Desktop\Project\Project\bin\EntityFramework.SqlServer.dll
+C:\Users\Chavdarov\Desktop\Project\Project\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Chavdarov\Desktop\Project\Project\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Chavdarov\Desktop\Project\Project\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Chavdarov\Desktop\Project\Project\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\Chavdarov\Desktop\Project\Project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Chavdarov\Desktop\Project\Project\bin\Microsoft.Owin.dll
+C:\Users\Chavdarov\Desktop\Project\Project\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Chavdarov\Desktop\Project\Project\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Chavdarov\Desktop\Project\Project\bin\Microsoft.Owin.Security.dll
+C:\Users\Chavdarov\Desktop\Project\Project\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Chavdarov\Desktop\Project\Project\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Chavdarov\Desktop\Project\Project\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Chavdarov\Desktop\Project\Project\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Chavdarov\Desktop\Project\Project\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Chavdarov\Desktop\Project\Project\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Chavdarov\Desktop\Project\Project\bin\Newtonsoft.Json.dll
+C:\Users\Chavdarov\Desktop\Project\Project\bin\Owin.dll
+C:\Users\Chavdarov\Desktop\Project\Project\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Chavdarov\Desktop\Project\Project\bin\System.Web.Helpers.dll
+C:\Users\Chavdarov\Desktop\Project\Project\bin\System.Web.Mvc.dll
+C:\Users\Chavdarov\Desktop\Project\Project\bin\System.Web.Optimization.dll
+C:\Users\Chavdarov\Desktop\Project\Project\bin\System.Web.Razor.dll
+C:\Users\Chavdarov\Desktop\Project\Project\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Chavdarov\Desktop\Project\Project\bin\System.Web.WebPages.dll
+C:\Users\Chavdarov\Desktop\Project\Project\bin\System.Web.WebPages.Razor.dll
+C:\Users\Chavdarov\Desktop\Project\Project\bin\WebGrease.dll
+C:\Users\Chavdarov\Desktop\Project\Project\bin\System.Web.Helpers.xml
+C:\Users\Chavdarov\Desktop\Project\Project\bin\System.Web.Mvc.xml
+C:\Users\Chavdarov\Desktop\Project\Project\bin\System.Web.Optimization.xml
+C:\Users\Chavdarov\Desktop\Project\Project\bin\System.Web.Razor.xml
+C:\Users\Chavdarov\Desktop\Project\Project\bin\System.Web.WebPages.xml
+C:\Users\Chavdarov\Desktop\Project\Project\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Chavdarov\Desktop\Project\Project\bin\System.Web.WebPages.Razor.xml
+C:\Users\Chavdarov\Desktop\Project\Project\bin\Newtonsoft.Json.xml
+C:\Users\Chavdarov\Desktop\Project\Project\bin\Antlr3.Runtime.pdb
+C:\Users\Chavdarov\Desktop\Project\Project\bin\EntityFramework.xml
+C:\Users\Chavdarov\Desktop\Project\Project\bin\EntityFramework.SqlServer.xml
+C:\Users\Chavdarov\Desktop\Project\Project\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Chavdarov\Desktop\Project\Project\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Chavdarov\Desktop\Project\Project\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Chavdarov\Desktop\Project\Project\bin\Microsoft.Owin.xml
+C:\Users\Chavdarov\Desktop\Project\Project\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Chavdarov\Desktop\Project\Project\bin\Microsoft.Owin.Security.xml
+C:\Users\Chavdarov\Desktop\Project\Project\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Chavdarov\Desktop\Project\Project\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Chavdarov\Desktop\Project\Project\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Chavdarov\Desktop\Project\Project\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Chavdarov\Desktop\Project\Project\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Chavdarov\Desktop\Project\Project\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Chavdarov\Desktop\Project\Project\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Chavdarov\Desktop\Project\Project\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\Chavdarov\Desktop\Project\Project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Chavdarov\Desktop\Project\Project\obj\Debug\Project.csproj.CoreCompileInputs.cache
+C:\Users\Chavdarov\Desktop\Project\Project\obj\Debug\Project.csproj.CopyComplete
+C:\Users\Chavdarov\Desktop\Project\Project\obj\Debug\Project.dll
+C:\Users\Chavdarov\Desktop\Project\Project\obj\Debug\Project.pdb
+C:\Users\Chavdarov\Desktop\Project\Project\obj\Debug\Project.csprojAssemblyReference.cache

@@ -1,0 +1,17 @@
+﻿<style>
+    body {
+        background-image: url("/Images/Background.jpg");
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+    }
+</style>
+
+<h1 style="color:white" align="center"> Add comment</h1>
+
+<form method="post" action="/Gallery/AddComment" class="centered" style="position: absolute;
+    top: 50%; left: 50%; transform: translate(-50%, -50%); color: white;">
+    <input type="hidden" name="id" value="@ViewBag.Id" />
+    <label style="font-size: 30px; margin-left:30%">Text:</label>
+    <textarea name="Text" class="form-control" style="width:500px; height:100px"></textarea>
+    <input type="submit" value="Add" class="btn btn-success" style="width:100%; margin-top:5%"/>
+</form>

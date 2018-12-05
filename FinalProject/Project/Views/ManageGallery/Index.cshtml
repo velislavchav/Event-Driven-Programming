@@ -1,0 +1,31 @@
+﻿@model List<Project.Models.Gallery>
+@{
+    ViewBag.Title = "Index";
+}
+
+<style>
+    body {
+        background-image: url("/Images/Background.jpg");
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+    }
+</style>
+
+<h2 align="center" style="color:white">Shop</h2>
+<hr/>
+<a href="/ManageGallery/Create" class="btn btn-primary" style="margin-bottom: 20px; width:600px; margin-left:24%"> Add </a>
+
+<div class="row">
+    @foreach (var gallery in Model)
+     {
+    <div class="col-md-3" style="border-width:5px; color: white; border-style:groove; padding:10px">
+        <img src="/Images/@gallery.CoverPath" style="height:250px" class="img-responsive" />
+        <h3 align="center"> Name: @gallery.Name <br />Author: @gallery.Author <br> Price: @gallery.Price $</h3>
+
+        <a href="/ManageGallery/Edit/@gallery.Id" class="btn btn-primary" style="width:49%">Edit</a>
+        <a href="/ManageGallery/Delete/@gallery.Id" class="btn btn-primary" style="width:49%">Delete</a>
+
+    </div>
+     }
+
+</div>
